@@ -1,8 +1,4 @@
-# CoolCommunityX-website
-
-contribute to this project create a reactjs website app for CoolCommunityX
-
-Install NOdejs
+ Install NOdejs
 
 next
 
@@ -25,10 +21,7 @@ refer this page for doubts in tailwind installation
 
 https://tailwindcss.com/docs/guides/create-react-app
 
-
-Chat 
-
-https://github.com/orgs/coolcommunityx/discussions/2
+ 
 
 
 
